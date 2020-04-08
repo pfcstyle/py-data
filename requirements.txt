@@ -6,3 +6,7 @@ scikit-learn
 statsmodels
 jupyter
 pandas-datareader
+lxml
+seaborn
+patsy
+beautifulsoup4
